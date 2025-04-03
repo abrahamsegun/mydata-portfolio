@@ -1,4 +1,4 @@
-# Data Engineer/Analyst Portfolio   lINKEDIN
+# Data Engineer/Analyst Portfolio
 
 Greetings! My name is Abraham Olowu, I am a Data Engineer and Analyst wiith great skills in SQL, Python and uses tools like Pandas, PySpark, Postgress, Mysql, Aws Fundenmentals to build data piplelines, etl processes. And I'm excited to share my still developing data engineer and analytics portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 I have some in progreess but will add to the catalog later. 
