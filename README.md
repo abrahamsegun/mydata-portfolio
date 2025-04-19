@@ -18,9 +18,14 @@ The task was to create the visualization based on performance and specific requi
 - Technology used: *python, Power BI, Excel*
 - Final results: (https://github.com/abrahamsegun/Drone-Capture-Performance-in-Real-Time/blob/main/VISUAL.pdf)
 
+### [Tableau Covid Project]
 
-### Others:
--  
+- Brief overview:  This is a visualization for the covid-19 padendemic effect from https://ourworldindata.org/covid-deaths and https://ourworldindata.org/covid-vaccination and https://ourworldindata.org/covid-vaccinations.
+-  I extracted the need portion using this original dataset from the xlsx file attached to this project.
+- Technology used: *SQL,Tableau, Excel*
+- Final results: (https://github.com/abrahamsegun/Tableau-covidProject)
+
+ 
 
 # 
 [My LinkedIn Profile](https://www.linkedin.com/in/abraham-olowu-segun/)
