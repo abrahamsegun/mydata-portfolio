@@ -24,6 +24,7 @@ The task was to create the visualization based on performance and specific requi
 -  I extracted the need portion using this original dataset from the xlsx file attached to this project.
 - Technology used: *SQL,Tableau, Excel*
 - Final results: (https://github.com/abrahamsegun/Tableau-covidProject)
+- VISUALIZATION: (https://public.tableau.com/app/profile/abraham.olowu/viz/Book1_17450188180410/Dashboard1)
 
  
 
