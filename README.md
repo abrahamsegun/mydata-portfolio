@@ -32,7 +32,7 @@ The task was to create the visualization based on performance and specific requi
 - Technology used: *SQL,Tableau, Excel*
 - Final results: (https://github.com/abrahamsegun/Tableau-covidProject/blob/main/README.md)
 - VISUALIZATION: (https://public.tableau.com/app/profile/abraham.olowu/viz/Book1_17450188180410/Dashboard1)
-  ## NOTE: i EXPORT THIS PROJECT WITH THE SAME LINK AS THE FIRST ONE [Tableau SALE DASHBOARD] - Tableau , i WILL HAVE TO FIX IT.  
+  ## NOTE: I EXPORTED THIS PROJECT WITH THE SAME LINK AS THE FIRST ONE [Tableau SALE DASHBOARD] - Tableau , i WILL HAVE TO FIX IT.  
  
 
 # 
