@@ -5,34 +5,34 @@ I have some in progreess but will add to the catalog later.
 
 ### PROJECTS   
 
-### WEATHER PREDICTION - Python 
+### WEATHER PREDICTION - Data Engineering
 
 - Brief overview:  This is a etl process where I collected data from open data to predicts the weather condtion of Lagos, Nigeria for the next three days.The data was stored in a postgresql database
 - Technology used: *Python, Pandas,sqlalchemy,psycopg2*
 - Final results: (https://github.com/abrahamsegun/etl-weather-prediction)
 
-### [Tableau SALE DASHBOARD] - Tableau 
+### [Tableau SALE DASHBOARD] - Data Analyst  
 
 - Brief overview:  This is a visualization of a dashboard for a potential oragnization with dummy datas from a excel file atteached in the github link below
 - Technology used: *Tableau, Excel*
 - Final results: (https://github.com/abrahamsegun/sales-dash/blob/main/README.md)
 - VISUALIZATION: (https://public.tableau.com/app/profile/abraham.olowu/viz/Book1_17450188180410/Dashboard1)
 
-### [DATABRICKS PYSPARK PROJECT  - Pyspark and Visualization]
+### [DATABRICKS PYSPARK PROJECT  - Pyspark and Visualization] - Data Analyst
 
 - Brief overview:   Clean data from [Github link]([https://www.berlin.de/restaurants/stadtteile/](https://github.com/abrahamsegun/Data-portfolio/tree/main)), create a dataset and then visualize using databricks.
 It is a visual respresentation of the yearly, qualterly and monthly performaance of a Business organization 
 - Technology used: *python, Pysparks, Databricks*
 - Final results: (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1941206910134807/3930659055043888/4578483942435076/latest.html)
 
-### [Drone Capture Performance in Real Time] -Power BI
+### [Drone Capture Performance in Real Time] - Data Analyst
 
 - Brief overview:   A drone data what captures the identification of objects and at differnet condtion especaliiy lumusity. 
 The task was to create the visualization based on performance and specific requiremnet. The conditions are contain in the visuals.  
 - Technology used: *python, Power BI, Excel*
 - Final results: (https://github.com/abrahamsegun/Drone-Capture-Performance-in-Real-Time/blob/main/VISUAL.pdf)
 
-### [Tableau Covid Project]
+### [Tableau Covid Project] - Data Analyst
 
 - Brief overview:  This is a visualization for the covid-19 padendemic effect from https://ourworldindata.org/covid-deaths and https://ourworldindata.org/covid-vaccination and https://ourworldindata.org/covid-vaccinations.
 -  I extracted the needed portion using this original dataset from the xlsx file attached to this project.
