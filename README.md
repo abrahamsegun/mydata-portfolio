@@ -20,8 +20,7 @@ I have some in progreess but will add to the catalog later.
 
 ### [DATABRICKS PYSPARK PROJECT  - Pyspark and Visualization] - Data Analyst
 
-- Brief overview:   Clean data from [Github link]([https://www.berlin.de/restaurants/stadtteile/](https://github.com/abrahamsegun/Data-portfolio/tree/main)), create a dataset and then visualize using databricks.
-It is a visual respresentation of the yearly, qualterly and monthly performaance of a Business organization 
+- Brief overview:   Clean data from [Github link]([https://www.berlin.de/restaurants/stadtteile/](https://github.com/abrahamsegun/Data-portfolio/tree/main)), create a dataset and then visualise using databricks. It is a visual representation of the yearly, quarterly and monthly conformance of a Business organisation 
 - Technology used: *python, Pysparks, Databricks*
 - Final results: (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1941206910134807/3930659055043888/4578483942435076/latest.html)
 
