@@ -7,7 +7,7 @@ I have some in progreess but will add to the catalog later.
 
 ### WEATHER PREDICTION - Data Engineering
 
-- Brief overview:  This is a etl process where I collected data from open data to predicts the weather condtion of Lagos, Nigeria for the next three days.The data was stored in a postgresql database
+- Brief overview:  This is ETL based project where I collected data from open data to predicts the weather condtion of Lagos, Nigeria for the next three days.The data was stored in a postgresql database
 - Technology used: *Python, Pandas,sqlalchemy,psycopg2*
 - Final results: (https://github.com/abrahamsegun/etl-weather-prediction)
 
